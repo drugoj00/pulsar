@@ -34,7 +34,7 @@ First public version: everything listed below.
 - **App lock.** Chosen apps only open with a PIN code (4–12 digits).
 - **Devices.** Connect over root or wireless ADB (Android 11+), reconnects on its own.
 - **Console.** A shell terminal with any command right inside the app, voice input (microphone).
-- **Assistant (AI, optional).** "Suggest" — describe in words what should happen, the app proposes a binding or rule. "Explain" — paste a ready technical command, the app tells you what it does (nothing is run). Works offline for common cases; for the rest, your own free key from one of the services (Gemini, Groq, DeepSeek, OpenRouter).
+- **Assistant (AI, optional).** "Suggest" — describe in words what should happen, the app proposes a binding or rule. "Explain" — paste a ready technical command, the app tells you what it does (nothing is run). Works offline for common cases; for the rest, pick a service and paste your own key (Claude, OpenAI, Gemini, DeepSeek, Groq, OpenRouter, Mistral — Gemini, Groq, DeepSeek and OpenRouter give a free tier) or run it fully free on your own computer (Ollama / LM Studio).
 - **Anti-tamper.** A modified copy re-signed with someone else's key disables part of its features on its own (obfuscation + signature check at startup).
 - **Error log.** Crashes and failed bindings are logged on their own; send to support with one button, the email with the file attached is ready.
 - **Backup.** Export and import all settings to a file.
@@ -49,6 +49,9 @@ Only one accessibility service can intercept button presses at a time. If anothe
 
 ## Screenshots
 
+<p>
+<img src="screenshots/01-баннер.png" width="300">
+</p>
 <p>
 <img src="screenshots/02-портрет-телефон-монитор-графики.png" width="200"> <img src="screenshots/03-ландшафт-приставка-монитор-графики.png" width="360">
 </p>
