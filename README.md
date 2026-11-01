@@ -12,20 +12,26 @@ Pulsar is the device's pulse on screen: a floating load monitor and live real-ti
 
 ## Download
 
-**Version 1.0.** [Pulsar-1.0.apk](https://github.com/drugoj00/pulsar/releases/latest) (Assets) · [Releases](https://github.com/drugoj00/pulsar/releases)
+**Version 2.0.** [Pulsar-2.0.apk](https://github.com/drugoj00/pulsar/releases/latest) (Assets) · [Releases](https://github.com/drugoj00/pulsar/releases)
 
-SHA-256: `73b3941986017222be0e3c8cd7ba967c204836ee1a67ce79df285948e93a0a94`
+SHA-256: `d508ab0a400ab6f4d741dcc2e101b715c3c4d45a7cc16808d130b9a4ed3b2b98`
 
 Not on Google Play: download the APK here. Android may warn about installing from an unknown source.
 
-## What's new in 1.0
+## What's new in 2.0
 
-First public version: everything listed below.
+- **Interval timer** tab: chains of timers, each with its own phases and repeats
+- Round sound of your choice: boxing bell, bell, whistle, beep or your own file; bell volume slider
+- Program graph in a floating window over the screen and as a tile in the monitor
+- Keeps running after the device reboots
+- Sticks 10 s before the work ends, voice prompts, screen stays on
+- About: links and a Support block
 
 ## Features
 
 - **Monitor.** A floating panel with CPU, RAM, temperature, battery, network, disk — any corner, a row or a column, draggable, your own colour and transparency; it steers clear of the status bar and navigation buttons/bar on any side.
 - **Charts.** A separate floating window with live charts of the same readings, movable and resizable.
+- **Interval timer.** Chains of timers: each has its own phases (work, rest…) and repeats, e.g. 30 s – 10 s × 15, then 2:10 – 0:15 – 2:00 – 0:10 × 3. Round start and end sound of your choice (boxing bell by default, bell, whistle, beep, your own file), sticks 10 s before the work ends, voice prompts, vibration, screen stays on. A graph of the program in a floating window and as a tile in the monitor; keeps running after the device reboots.
 - **Buttons.** Bind a single, double or long press of any remote, keyboard, air-mouse or mouse button to an action: launch an app, Home, Back, Recents, volume, media keys, a multi-step macro, a shell command (root or ADB), a TCP/HTTP request, a screenshot, reboot, lock the screen and more.
 - **Gestures.** Accelerometer gestures (shake, flip, tilt, spin) work without root or ADB. On-screen gestures, air mouse and mouse (right/left button held + move) need root or ADB.
 - **Triggers.** Rules "event → action" (boot, idle for a set time, app opened, screen off), 25 ready-made gesture/sensor templates to pick from, fields editable before saving.
@@ -54,6 +60,9 @@ Only one accessibility service can intercept button presses at a time. If anothe
 </p>
 <p>
 <img src="screenshots/02-портрет-телефон-монитор-графики.png" width="200"> <img src="screenshots/03-ландшафт-приставка-монитор-графики.png" width="360">
+</p>
+<p>
+<img src="screenshots/16-таймер-ход.png" width="200"> <img src="screenshots/17-таймер-редактор.png" width="200"> <img src="screenshots/18-таймер-окно-графика.png" width="200"> <img src="screenshots/19-таймер-монитор.png" width="200">
 </p>
 <p>
 <img src="screenshots/04-кнопки.png" width="200"> <img src="screenshots/05-жесты.png" width="200"> <img src="screenshots/06-триггеры.png" width="200"> <img src="screenshots/09-afr.png" width="200"> <img src="screenshots/10-док-панель.png" width="200"> <img src="screenshots/13-консоль.png" width="200">
