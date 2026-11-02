@@ -12,26 +12,28 @@ Pulsar is the device's pulse on screen: a floating load monitor and live real-ti
 
 ## Download
 
-**Version 2.0.** [Pulsar-2.0.apk](https://github.com/drugoj00/pulsar/releases/latest) (Assets) · [Releases](https://github.com/drugoj00/pulsar/releases)
+**Version 2.1.** [Pulsar-2.1.apk](https://github.com/drugoj00/pulsar/releases/latest) (Assets) · [Releases](https://github.com/drugoj00/pulsar/releases)
 
-SHA-256: `d508ab0a400ab6f4d741dcc2e101b715c3c4d45a7cc16808d130b9a4ed3b2b98`
+SHA-256: `6da123194a781a1a98603781988601145f87a9aa97e9c7371e66983ea28ce2d3`
 
 Not on Google Play: download the APK here. Android may warn about installing from an unknown source.
 
-## What's new in 2.0
+## What's new in 2.1
 
-- **Interval timer** tab: chains of timers, each with its own phases and repeats
-- Round sound of your choice: boxing bell, bell, whistle, beep or your own file; bell volume slider
-- Program graph in a floating window over the screen and as a tile in the monitor
-- Keeps running after the device reboots
-- Sticks 10 s before the work ends, voice prompts, screen stays on
-- About: links and a Support block
+- Interval timer: phase times, get-ready and repeats set with counters and a slider, any number of seconds from 1
+- Signals switch on and off separately: phase start and end, beeps, sticks, voice, vibration
+- Own signals for each timer: sound and volume (0 means silent)
+- Countdown beep pitch changes smoothly from low to high; tap the value to reset
+- Sticks can be set to any number of seconds before the end of work, from 1
+- Beeps and voice have their own volume
+- Main menu reordered: interval timer first, then the program switch, the other sections below, Monitor and Charts first
+- Fixed: buttons in forms are aligned to full width without gaps
 
 ## Features
 
 - **Monitor.** A floating panel with CPU, RAM, temperature, battery, network, disk — any corner, a row or a column, draggable, your own colour and transparency; it steers clear of the status bar and navigation buttons/bar on any side.
 - **Charts.** A separate floating window with live charts of the same readings, movable and resizable.
-- **Interval timer.** Chains of timers: each has its own phases (work, rest…) and repeats, e.g. 30 s – 10 s × 15, then 2:10 – 0:15 – 2:00 – 0:10 × 3. Round start and end sound of your choice (boxing bell by default, bell, whistle, beep, your own file), sticks 10 s before the work ends, voice prompts, vibration, screen stays on. A graph of the program in a floating window and as a tile in the monitor; keeps running after the device reboots.
+- **Interval timer.** Chains of timers: each has its own phases (work, rest…) and repeats, e.g. 30 s – 10 s × 15, then 2:10 – 0:15 – 2:00 – 0:10 × 3. Phase times, get-ready and repeats are set with counters (any number of seconds from 1). Every signal switches on and off separately; the program and each timer can have their own sound, volume and countdown beep pitch; sticks any number of seconds before the work ends; voice prompts, vibration, screen stays on. A graph of the program in a floating window and as a tile in the monitor; keeps running after the device reboots.
 - **Buttons.** Bind a single, double or long press of any remote, keyboard, air-mouse or mouse button to an action: launch an app, Home, Back, Recents, volume, media keys, a multi-step macro, a shell command (root or ADB), a TCP/HTTP request, a screenshot, reboot, lock the screen and more.
 - **Gestures.** Accelerometer gestures (shake, flip, tilt, spin) work without root or ADB. On-screen gestures, air mouse and mouse (right/left button held + move) need root or ADB.
 - **Triggers.** Rules "event → action" (boot, idle for a set time, app opened, screen off), 25 ready-made gesture/sensor templates to pick from, fields editable before saving.
