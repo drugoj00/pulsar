@@ -12,22 +12,15 @@ Pulsar is the device's pulse on screen: a floating load monitor and live real-ti
 
 ## Download
 
-**Version 2.1.** [Pulsar-2.1.apk](https://github.com/drugoj00/pulsar/releases/latest) (Assets) · [Releases](https://github.com/drugoj00/pulsar/releases)
+**Version 2.2.** [Pulsar-2.2.apk](https://github.com/drugoj00/pulsar/releases/latest) (Assets) · [Releases](https://github.com/drugoj00/pulsar/releases)
 
-SHA-256: `6da123194a781a1a98603781988601145f87a9aa97e9c7371e66983ea28ce2d3`
+SHA-256: `97ffa625910420490d3cdffd9457168594eb08c8717aa06824fbcd0787a2b82a`
 
 Not on Google Play: download the APK here. Android may warn about installing from an unknown source.
 
-## What's new in 2.1
+## What's new in 2.2
 
-- Interval timer: phase times, get-ready and repeats set with counters and a slider, any number of seconds from 1
-- Signals switch on and off separately: phase start and end, beeps, sticks, voice, vibration
-- Own signals for each timer: sound and volume (0 means silent)
-- Countdown beep pitch changes smoothly from low to high; tap the value to reset
-- Sticks can be set to any number of seconds before the end of work, from 1
-- Beeps and voice have their own volume
-- Main menu reordered: interval timer first, then the program switch, the other sections below, Monitor and Charts first
-- Fixed: buttons in forms are aligned to full width without gaps
+- Timer repeats go up to 150, so the slider sets any number easily
 
 ## Features
 
