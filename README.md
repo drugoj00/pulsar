@@ -12,13 +12,13 @@ Pulsar is the device's pulse on screen: a floating load monitor and live real-ti
 
 ## Download
 
-**Version 2.2.** [Pulsar-2.2.apk](https://github.com/drugoj00/pulsar/releases/latest) (Assets) · [Releases](https://github.com/drugoj00/pulsar/releases)
+**Version 2.3.** [Pulsar-2.3.apk](https://github.com/drugoj00/pulsar/releases/latest) (Assets) · [Releases](https://github.com/drugoj00/pulsar/releases)
 
-SHA-256: `97ffa625910420490d3cdffd9457168594eb08c8717aa06824fbcd0787a2b82a`
+SHA-256: `89956af91c79033112bb705359ed9f25745cadd95798c14e3853d09178583940`
 
 Not on Google Play: download the APK here. Android may warn about installing from an unknown source.
 
-## What's new in 2.2
+## What's new in 2.3
 
 - Timer repeats go up to 150, so the slider sets any number easily
 

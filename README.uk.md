@@ -12,13 +12,13 @@ Pulsar — це пульс пристрою на екрані: плаваючи�
 
 ## Завантажити
 
-**Версія 2.2.** [Pulsar-2.2.apk](https://github.com/drugoj00/pulsar/releases/latest) (Assets) · [Усі релізи](https://github.com/drugoj00/pulsar/releases)
+**Версія 2.3.** [Pulsar-2.3.apk](https://github.com/drugoj00/pulsar/releases/latest) (Assets) · [Усі релізи](https://github.com/drugoj00/pulsar/releases)
 
-SHA-256: `97ffa625910420490d3cdffd9457168594eb08c8717aa06824fbcd0787a2b82a`
+SHA-256: `89956af91c79033112bb705359ed9f25745cadd95798c14e3853d09178583940`
 
 У Google Play програми немає: завантажуй APK тут. Android може попередити про встановлення з невідомого джерела.
 
-## Що нового в 2.2
+## Що нового в 2.3
 
 - Кількість повторів таймера до 150, повзунком легко виставити потрібне число
 
