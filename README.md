@@ -12,15 +12,24 @@ Pulsar is the device's pulse on screen: a floating load monitor and live real-ti
 
 ## Download
 
-**Version 2.3.** [Pulsar-2.3.apk](https://github.com/drugoj00/pulsar/releases/latest) (Assets) · [Releases](https://github.com/drugoj00/pulsar/releases)
+**Version 3.0.** [Pulsar-3.0.apk](https://github.com/drugoj00/pulsar/releases/latest) (Assets) · [Releases](https://github.com/drugoj00/pulsar/releases)
 
-SHA-256: `89956af91c79033112bb705359ed9f25745cadd95798c14e3853d09178583940`
+SHA-256: `62d241fdb4e6fa4bbb162984bc068dd803348281227b860e5ca9a09cc046c203`
 
 Not on Google Play: download the APK here. Android may warn about installing from an unknown source.
 
-## What's new in 2.3
+## What's new in 3.0
 
-- Timer repeats go up to 150, so the slider sets any number easily
+- App autostart when the device turns on
+- Click sound
+- Auto scale for car screens and "Interface size"
+- Update window shows "What's new"
+- Keyboard on TV only on OK
+- Text selection and copy
+- Eye icon in the input field
+- Smaller installer
+
+Fixed: app names in lists are no longer cut off
 
 ## Features
 
@@ -39,7 +48,9 @@ Not on Google Play: download the APK here. Android may warn about installing fro
 - **Anti-tamper.** A modified copy re-signed with someone else's key disables part of its features on its own (obfuscation + signature check at startup).
 - **Error log.** Crashes and failed bindings are logged on their own; send to support with one button, the email with the file attached is ready.
 - **Backup.** Export and import all settings to a file.
-- **Settings.** Theme (auto, light, dark), language (Russian, Ukrainian, English).
+- **App autostart.** Chosen apps launch one by one when the device turns on (through root or ADB): pause before the first and between them, a mode for each app (on screen, in background, skip), a log of launches.
+- **Updates.** The app checks GitHub releases itself: a window with "What's new", Install or Later; the downloaded file is checked before installing.
+- **Settings.** Theme (auto, light, dark), language (Russian, Ukrainian, English), interface size (scales on its own on car screens with low density), click sound.
 - **Free.** No ads.
 
 ## Requirements
