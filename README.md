@@ -12,24 +12,17 @@ Pulsar is the device's pulse on screen: a floating load monitor and live real-ti
 
 ## Download
 
-**Version 3.0.** [Pulsar-3.0.apk](https://github.com/drugoj00/pulsar/releases/latest) (Assets) · [Releases](https://github.com/drugoj00/pulsar/releases)
+**Version 4.0.** [Pulsar-4.0.apk](https://github.com/drugoj00/pulsar/releases/latest) (Assets) · [Releases](https://github.com/drugoj00/pulsar/releases)
 
-SHA-256: `62d241fdb4e6fa4bbb162984bc068dd803348281227b860e5ca9a09cc046c203`
+SHA-256: `f9935b8d2504ea92143b60f4b4a0e48ce4cbba0a69811df74bc2e8bca962367a`
 
 Not on Google Play: download the APK here. Android may warn about installing from an unknown source.
 
-## What's new in 3.0
+## What's new in 4.0
 
-- App autostart when the device turns on
-- Click sound
-- Auto scale for car screens and "Interface size"
-- Update window shows "What's new"
-- Keyboard on TV only on OK
-- Text selection and copy
-- Eye icon in the input field
-- Smaller installer
-
-Fixed: app names in lists are no longer cut off
+- Fixed: the "Turn off" button on the main screen did not stop the service on some devices
+- Fixed: the mouse wheel switched sections in the left menu instead of scrolling the page under the cursor
+- Fixed: on a TV box the section selection no longer jumps to the first item when the app opens
 
 ## Features
 
