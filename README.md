@@ -12,17 +12,20 @@ Pulsar is the device's pulse on screen: a floating load monitor and live real-ti
 
 ## Download
 
-**Version 4.0.** [Pulsar-4.0.apk](https://github.com/drugoj00/pulsar/releases/latest) (Assets) · [Releases](https://github.com/drugoj00/pulsar/releases)
+**Version 5.0.** [Pulsar-5.0.apk](https://github.com/drugoj00/pulsar/releases/latest) (Assets) · [Releases](https://github.com/drugoj00/pulsar/releases)
 
-SHA-256: `e526a1bc1f0c501a2293002c6f61795e06b6ed6726e82677e1b07cb71833dd7d`
+SHA-256: `daa85ded5b32db45ed1141dd090c0be86a2ba92f1d3ab0663bcfb4bd22201b6e`
 
 Not on Google Play: download the APK here. Android may warn about installing from an unknown source.
 
-## What's new in 4.0
+## What's new in 5.0
 
-- Fixed: the "Turn off" button on the main screen did not stop the service on some devices
-- Fixed: the mouse wheel switched sections in the left menu instead of scrolling the page under the cursor
-- Fixed: on a TV box the section selection no longer jumps to the first item when the app opens
+- Smooth sections, buttons and app picker
+- Faster response
+- Section list on the phone start screen
+- Update check works when the GitHub request limit is reached
+- Fixed: update was refused with a false signature error on Android 9 and 10
+- Bug fixes
 
 ## Features
 
