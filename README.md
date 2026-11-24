@@ -12,21 +12,18 @@ Pulsar is the device's pulse on screen: a floating load monitor and live real-ti
 
 ## Download
 
-**Version 6.0.** [Pulsar-6.0.apk](https://github.com/drugoj00/pulsar/releases/latest) (Assets) · [Releases](https://github.com/drugoj00/pulsar/releases)
+**Version 7.0.** [Pulsar-7.0.apk](https://github.com/drugoj00/pulsar/releases/latest) (Assets) · [Releases](https://github.com/drugoj00/pulsar/releases)
 
-SHA-256: `36fec050246da80cbe2feec52e50c0522cfb2c96918b95967057724d914e2ca1`
+SHA-256: `64ac46728b43901f57027147bfaaad970833224bc1d4cebe21faf1457d9275af`
 
 Not on Google Play: download the APK here. Android may warn about installing from an unknown source.
 
-## What's new in 6.0
+## What's new in 7.0
 
-- Button conditions: playing, paused, stopped, Bluetooth device
-- Triggers: logcat line, Bluetooth connect and disconnect, app window opened and closed, playback start, pause and stop
-- Actions: Wi-Fi and Bluetooth on and off, open and close cursor, ignore list, pinch, web window, TV input
-- TV volume over the network: Roku, Sony, UPnP
-- Keyboard switch action
-- Macros with variables and IF, ELSE branches
-- Backup: choose by checkboxes what to save, with Monitor, Charts and Timer
+- Remote focus moves between the Pulsar panel and the App Menu dock
+- Back is no longer lost when the Pulsar panel has taken the focus
+- Dock panel: buttons at the top, full width
+- Active buttons are filled turquoise, inactive ones outlined
 - Bug fixes
 
 ## Features
