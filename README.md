@@ -14,7 +14,7 @@ Pulsar is the device's pulse on screen: a floating load monitor and live real-ti
 
 **Version 6.0.** [Pulsar-6.0.apk](https://github.com/drugoj00/pulsar/releases/latest) (Assets) · [Releases](https://github.com/drugoj00/pulsar/releases)
 
-SHA-256: `dcceb8a2a77d36930c02018fa2e7d0241f8db6ee7305b6b9cb14f48b345b28d1`
+SHA-256: `a09cc96830d0455abed99b65d993d7cf30079d46c68facd775333aa2ba7d981b`
 
 Not on Google Play: download the APK here. Android may warn about installing from an unknown source.
 
