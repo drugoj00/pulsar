@@ -27,7 +27,6 @@ Not on Google Play: download the APK here. Android may warn about installing fro
 - Keyboard switch action
 - Macros with variables and IF, ELSE branches
 - Backup: choose by checkboxes what to save, with Monitor, Charts and Timer
-- Ready rules for Vimu: stop and start ViPER and JamesDSP when the player opens and closes
 - Bug fixes
 
 ## Features
