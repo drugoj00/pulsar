@@ -12,19 +12,22 @@ Pulsar is the device's pulse on screen: a floating load monitor and live real-ti
 
 ## Download
 
-**Version 5.0.** [Pulsar-5.0.apk](https://github.com/drugoj00/pulsar/releases/latest) (Assets) · [Releases](https://github.com/drugoj00/pulsar/releases)
+**Version 6.0.** [Pulsar-6.0.apk](https://github.com/drugoj00/pulsar/releases/latest) (Assets) · [Releases](https://github.com/drugoj00/pulsar/releases)
 
-SHA-256: `6559f64516c33607bb555f71e9357a4befdf3742a6133ae217f16cc0c6d169f9`
+SHA-256: `a09cc96830d0455abed99b65d993d7cf30079d46c68facd775333aa2ba7d981b`
 
 Not on Google Play: download the APK here. Android may warn about installing from an unknown source.
 
-## What's new in 5.0
+## What's new in 6.0
 
-- Smooth sections, buttons and app picker
-- Faster response
-- Section list on the phone start screen
-- Update check works when the GitHub request limit is reached
-- Fixed: update was refused with a false signature error on Android 9 and 10
+- Button conditions: playing, paused, stopped, Bluetooth device
+- Triggers: logcat line, Bluetooth connect and disconnect, app window opened and closed, playback start, pause and stop
+- Actions: Wi-Fi and Bluetooth on and off, open and close cursor, ignore list, pinch, web window, TV input
+- TV volume over the network: Roku, Sony, UPnP
+- Keyboard switch action
+- Macros with variables and IF, ELSE branches
+- Backup: choose by checkboxes what to save, with Monitor, Charts and Timer
+- Ready rules for Vimu: stop and start ViPER and JamesDSP when the player opens and closes
 - Bug fixes
 
 ## Features
