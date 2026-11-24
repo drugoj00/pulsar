@@ -14,7 +14,7 @@ Pulsar - це пульс пристрою на екрані: плаваючий 
 
 **Версія 5.0.** [Pulsar-5.0.apk](https://github.com/drugoj00/pulsar/releases/latest) (Assets) · [Усі релізи](https://github.com/drugoj00/pulsar/releases)
 
-SHA-256: `01584488a307ebcc2e4ecd720dca13491c250cf6613f74160e1e7d64e1442cb0`
+SHA-256: `6559f64516c33607bb555f71e9357a4befdf3742a6133ae217f16cc0c6d169f9`
 
 У Google Play програми немає: завантажуй APK тут. Android може попередити про встановлення з невідомого джерела.
 
