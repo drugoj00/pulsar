@@ -12,18 +12,19 @@ Pulsar is the device's pulse on screen: a floating load monitor and live real-ti
 
 ## Download
 
-**Version 7.0.** [Pulsar-7.0.apk](https://github.com/drugoj00/pulsar/releases/latest) (Assets) · [Releases](https://github.com/drugoj00/pulsar/releases)
+**Version 8.0.** [Pulsar-8.0.apk](https://github.com/drugoj00/pulsar/releases/latest) (Assets) · [Releases](https://github.com/drugoj00/pulsar/releases)
 
-SHA-256: `64ac46728b43901f57027147bfaaad970833224bc1d4cebe21faf1457d9275af`
+SHA-256: `f274a2033468f4b9692d2af38948ff0d6bf57c528378e5968843fddb4fe1f05c`
 
 Not on Google Play: download the APK here. Android may warn about installing from an unknown source.
 
-## What's new in 7.0
+## What's new in 8.0
 
-- Remote focus moves between the Pulsar panel and the App Menu dock
-- Back is no longer lost when the Pulsar panel has taken the focus
-- Dock panel: buttons at the top, full width
-- Active buttons are filled turquoise, inactive ones outlined
+- New section "Cache and stopping apps": pick apps with checkboxes
+- Cache cleaning after you leave an app (with a pause) and when the device turns on, a "Clean now" button, a log
+- Each app can get "Stop": after you leave it, the app is closed completely and frees memory
+- Data, accounts and app settings are not touched
+- If root or ADB is needed, the app shows a window with a button to the settings
 - Bug fixes
 
 ## Features
